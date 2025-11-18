@@ -1,0 +1,5 @@
+{
+  "name": "CoinVista",
+  "description": "A responsive cryptocurrency website built with React and Tailwind CSS, allowing users to view real-time data, detailed charts, and convert prices between USD, EUR, and INR using data from the CoinGecko API.",
+  "requestFramePermissions": []
+}
